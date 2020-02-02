@@ -1,4 +1,5 @@
 More changes
 Alice change
+Alice conflict
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Now I will be on a branch.
